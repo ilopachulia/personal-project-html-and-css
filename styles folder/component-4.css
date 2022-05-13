@@ -1,0 +1,25 @@
+.boxes {
+  width: 362px;
+  height: 292px;
+}
+
+.box1 {
+  border: 5px solid #ee3364;
+}
+
+.box2,
+.box3 {
+  border: 5px solid #ee3364;
+  padding: 25px;
+  background-color: #edf7ff;
+}
+
+.text {
+  color: black;
+  font-size: 40px;
+}
+
+.box-text {
+  color: black;
+  margin-bottom: 15px;
+}
