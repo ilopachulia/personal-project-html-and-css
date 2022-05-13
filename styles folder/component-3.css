@@ -1,0 +1,25 @@
+.background {
+
+  height: 884px;
+  background-color: blueviolet;
+}
+
+.main-text {
+  font-family: "glacial-bold";
+  font-size: 80px;
+  color: white;
+  margin-bottom: 20px;
+}
+
+.minor-text {
+  font-family: 'muli';
+  font-size: 20px;
+  margin-bottom: 50px;
+}
+
+button {
+  padding: 20px 30px;
+  background-color: #EE3364;
+  text-transform: uppercase;
+  color: white;
+}
