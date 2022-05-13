@@ -181,4 +181,19 @@
   src: url("../fonts/Poppins/Poppins-ThinItalic.ttf");
 }
 
+/* container */
 
+
+main {
+  width: 100%;
+  height: 100%;
+}
+
+.main-container {
+  width: 100%;
+}
+
+.container {
+  width: 1155px;
+  margin: 0 auto;
+}
