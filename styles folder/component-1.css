@@ -1,0 +1,24 @@
+.flex {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.headline {
+  height: 50px;
+  width: 100%;
+  background-color: #220d29;
+}
+
+.headline-container {
+width: 374px;
+}
+
+
+}
+
+.mail-icon {
+  width: 18px;
+  height: 14px;
+  padding-left: 389px;
+}
