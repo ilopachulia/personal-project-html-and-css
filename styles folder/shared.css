@@ -1,0 +1,84 @@
+@font-face {
+  font-family: cambay-bold;
+  src: url("../fonts/Cambay/Cambay-Bold.ttf");
+}
+
+@font-face {
+  font-family: cambay-bold-italic;
+  src: url("../fonts/Cambay/Cambay-BoldItalic.ttf");
+}
+
+@font-face {
+  font-family: cambay-italic;
+  src: url("../fonts/Cambay/Cambay-Italic.ttf");
+}
+
+@font-face {
+  font-family: cambay-regular;
+  src: url("../fonts/Cambay/Cambay-Regular.ttf");
+}
+
+@font-face {
+    font-family: glacial-bold;
+    src: url('../fonts/glacial-indifference/GlacialIndifference-Bold.otf');
+}
+
+@font-face {
+    font-family: glacial-italic;
+    src: url('../fonts/glacial-indifference/GlacialIndifference-Italic.otf');
+}
+
+@font-face {
+    font-family: glacial-regular;
+    src: url('../fonts/glacial-indifference/GlacialIndifference-Regular.otf');
+}
+
+@font-face {
+    font-family: muli-bold;
+    src: url('../fonts/muli/Muli-Bold.ttf');
+}
+
+@font-face {
+    font-family: muli-bold-italic;
+    src: url('../fonts/muli/Muli-BoldItalic.ttf');
+}
+
+@font-face {
+    font-family: muli-extra-light;
+    src: url('../fonts/muli/Muli-ExtraLight.ttf');
+}
+
+@font-face {
+    font-family: muli-extra-light-italic;
+    src: url('../fonts/muli/Muli-ExtraLightItalic.ttf');
+}
+
+@font-face {
+    font-family: muli-italic;
+    src: url('../fonts/muli/Muli-Italic.ttf');
+}
+
+@font-face {
+    font-family: muli-light;
+    src: url('../fonts/muli/Muli-Light.ttf');
+}
+
+@font-face {
+    font-family: muli-light-italic;
+    src: url('../fonts/muli/Muli-LightItalic.ttf');
+}
+
+@font-face {
+    font-family: muli-semi-bold-italic;
+    src: url('../fonts/muli/Muli-Semi-BoldItalic.ttf');
+}
+
+@font-face {
+    font-family: muli-semi-bold;
+    src: url('../fonts/muli/Muli-SemiBold.ttf');
+}
+
+@font-face {
+    font-family: muli;
+    src: url('../fonts/muli/Muli.ttf');
+}
