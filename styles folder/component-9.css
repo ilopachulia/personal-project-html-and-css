@@ -57,3 +57,40 @@
 .view-all {
   margin-bottom: 142px;
 }
+
+
+.show-cell-headline {
+    font-family: 'glacial-bold';
+    font-size: 48px;
+    color: #FFFFFF;
+    margin-bottom: 19px;
+    text-align: center;
+
+}
+
+.show-cell-paragraph {
+    font-family: 'glacial-regular';
+    color: #EE3364;
+    text-transform: uppercase;
+    margin-bottom: 21px;
+}
+
+
+.show-cell-headline2 {
+    font-family: 'muli';
+    font-size: 20px;
+    color: #FFFFFF;
+    margin-bottom: 30px;
+
+}
+
+.right-arrow {
+
+}
+
+.show-cell-flex {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
