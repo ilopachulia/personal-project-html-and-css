@@ -1,0 +1,99 @@
+.service_package {
+  background-color: white;
+  padding-top: 134px;
+}
+
+.plans_container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.plan_box {
+  text-align: center;
+  width: 370px;
+  height: 530px;
+  border: 1px solid #eeeeee;
+  padding-top: 75px;
+  padding-bottom: 75px;
+}
+
+.plan_typo {
+  font-family: "glacial-regular";
+  font-size: 30px;
+  line-height: 30px;
+  margin-bottom: 20px;
+}
+
+.time_typo {
+  font-family: "glacial-regular";
+  font-size: 18px;
+  color: #8b8b8b;
+  text-transform: uppercase;
+  margin-bottom: 30px;
+}
+
+.time_typo-diff {
+  font-family: "glacial-regular";
+  font-size: 18px;
+  color: white;
+  text-transform: uppercase;
+  margin-bottom: 30px;
+}
+
+.price {
+  font-family: "glacial-regular";
+  line-height: 30px;
+  font-size: 80px;
+  text-transform: uppercase;
+  margin-bottom: 80px;
+}
+
+.content-type {
+  font-family: "cambay-regular";
+  font-size: 16px;
+  line-height: 30px;
+  color: #636363;
+}
+
+.content-type-diff {
+  font-family: "cambay-regular";
+  font-size: 16px;
+  line-height: 30px;
+  color: white;
+}
+
+.amount {
+  font-family: "cambay-regular";
+  color: #8799a3;
+  font-size: 16px;
+  line-height: 30px;
+  text-transform: uppercase;
+}
+
+.amount-diff {
+  font-family: "cambay-regular";
+  color: white;
+  font-size: 16px;
+  line-height: 30px;
+  text-transform: uppercase;
+}
+
+.different_box {
+  background-color: #ee3364;
+  color: white;
+}
+
+button.purchase_button {
+  margin-top: 36px;
+  width: 180px;
+  height: 58px;
+  background: black;
+}
+
+button#different_button {
+  margin-top: 36px;
+  width: 180px;
+  height: 58px;
+  border: 1px solid white;
+  background: transparent;
+}
