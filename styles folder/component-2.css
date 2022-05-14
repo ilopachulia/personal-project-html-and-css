@@ -1,12 +1,30 @@
 .navigation {
-    background-color: #230E59;
-    height: 95px;
-    font-family: 'muli';
-    font-weight: bold;
-    font-size: 18px;
-    color: white;
+  height: 95px;
+  font-family: "muli";
+  font-weight: bold;
+  font-size: 18px;
 }
 
-.icons {
-    
+.navigation_container {
+  background-color: #230e59;
+}
+
+.navigation_list {
+  margin-left: 280px;
+  display: flex;
+  list-style-type: none;
+  align-items: center;
+}
+
+.navigation li {
+  margin-right: 45px;
+}
+
+.navigation_link {
+  text-decoration: none;
+  font-family: "muli";
+  font-size: 18px;
+  line-height: 36px;
+  font-weight: bold;
+  color: white;
 }

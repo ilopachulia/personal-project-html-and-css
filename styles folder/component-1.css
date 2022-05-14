@@ -13,6 +13,9 @@ svg:not(:last-child) {
   margin-right: 24px;
 }
 
+svg {
+  cursor: pointer;
+}
 
 .contact-info {
   background-color: #220d29;

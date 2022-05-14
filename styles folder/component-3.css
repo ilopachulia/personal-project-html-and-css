@@ -1,7 +1,5 @@
 .background {
-
   height: 884px;
-  background-color: blueviolet;
 }
 
 .main-text {
@@ -11,15 +9,25 @@
   margin-bottom: 20px;
 }
 
+.services_container {
+  background-color: blueviolet;
+}
+
 .minor-text {
-  font-family: 'muli';
+  font-family: "muli";
   font-size: 20px;
   margin-bottom: 50px;
+  color: white;
 }
 
 button {
   padding: 20px 30px;
-  background-color: #EE3364;
+  background-color: #ee3364;
   text-transform: uppercase;
   color: white;
+  border: none;
+  font-family: "muli";
+  font-size: 12px;
+  font-weight: bold;
+  cursor: pointer;
 }

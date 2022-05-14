@@ -1,15 +1,16 @@
-.boxes {
+.box {
   width: 362px;
-  height: 292px;
+  height: 375px;
 }
 
-.box1 {
-  border: 5px solid #ee3364;
+.boxes_container {
+  margin-top: 60px;
+  margin-bottom: 90px;
 }
 
+.box1,
 .box2,
 .box3 {
-  border: 5px solid #ee3364;
   padding: 25px;
   background-color: #edf7ff;
 }
@@ -17,9 +18,18 @@
 .text {
   color: black;
   font-size: 40px;
+  text-align: center;
+  font-family: "glacial-regular";
 }
 
 .box-text {
   color: black;
   margin-bottom: 15px;
+}
+
+.button-services_container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-self: center;
 }
