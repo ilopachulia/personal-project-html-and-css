@@ -1,0 +1,13 @@
+.file-container {
+  height: 875px;
+  background-color: aliceblue;
+}
+
+.file {
+  margin-top: 140px;
+}
+
+.file-headline {
+  font-family: "glacial-regular";
+  font-size: 45px;
+}
