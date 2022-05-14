@@ -1,0 +1,18 @@
+.youtube-container {
+  background-color: #ff434b;
+  height: 642px;
+}
+
+.youtube-container-headline {
+  font-family: "muli-regular";
+  font-size: 16px;
+  text-align: center;
+  line-height: 23px;
+}
+.youtube-container-header {
+  font-family: "glacial-regular";
+  font-size: 45px;
+  text-align: center;
+  color: white;
+  line-height: 47px;
+}
