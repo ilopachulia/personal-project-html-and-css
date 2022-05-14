@@ -11,3 +11,27 @@
   font-family: "glacial-regular";
   font-size: 45px;
 }
+
+.file-headline_content {
+  font-family: "muli";
+  font-size: 16px;
+  color: #8b8b8b;
+  margin-top: 50px;
+  margin-bottom: 28px;
+}
+
+.file_list {
+  display: flex;
+  align-items: center;
+}
+
+.fill_list_typography {
+  font-family: "glacial-regular";
+  font-weight: 200;
+  font-size: 17px;
+  color: #383838;
+}
+
+.headline_list {
+  margin-bottom: 54px;
+}
