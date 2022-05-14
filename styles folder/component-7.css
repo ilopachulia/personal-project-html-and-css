@@ -1,0 +1,32 @@
+.youtube-container-footer {
+  height: 310px;
+  background-color: #1b1b1b;
+}
+
+.common-container {
+  display: flex;
+  align-items: center;
+}
+
+.quantity {
+  font-family: "glacial-bold";
+  font-size: 57px;
+  color: #ffffff;
+}
+
+.task-completed {
+  font-family: "glacial-regular";
+  font-size: 24px;
+  color: #cfcfcf;
+}
+
+.svg-container {
+  margin-right: 28px;
+}
+
+.youtube-footer-child {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 100%;
+}
