@@ -1,6 +1,8 @@
 .box {
   width: 362px;
-  height: 375px;
+  height: 292px;
+  padding: 25px;
+  background-color: #edf7ff;
 }
 
 .boxes_container {
@@ -8,12 +10,6 @@
   margin-bottom: 90px;
 }
 
-.box1,
-.box2,
-.box3 {
-  padding: 25px;
-  background-color: #edf7ff;
-}
 
 .text {
   color: black;
@@ -23,8 +19,18 @@
 }
 
 .box-text {
-  color: black;
+  color: #2e2e2e;
   margin-bottom: 15px;
+  font-family: "glacial-regular";
+  font-size: 25px;
+  line-height: 30px;
+  margin-top: 5px;
+}
+
+.box-subtext {
+  font-family: "muli";
+  line-height: 24px;
+  color: #838383;
 }
 
 .button-services_container {
@@ -32,11 +38,25 @@
   display: flex;
   justify-content: center;
   align-self: center;
-  
 }
 
 .services-section {
   margin-top: 140px;
   margin-bottom: 140px;
+}
 
+.circle {
+  width: 84px;
+  height: 84px;
+  border-radius: 50%;
+  background-color: #ffffff;
+}
+
+.box:hover > .circle {
+  background-color: #ee3364;
+}
+
+
+.box:hover {
+  border: 2px solid #ee3364;
 }
