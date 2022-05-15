@@ -1,24 +1,27 @@
 .file-container {
   height: 875px;
-  background-color: aliceblue;
 }
 
 .file {
-  margin-top: 140px;
+  margin-top: 130px;
 }
 
 .file-headline {
   font-family: "glacial-regular";
   font-size: 45px;
+  line-height: 45px;
+  margin-bottom: 30px;
+  margin-top: 70px;
 }
 
 .file-headline_content {
   font-family: "muli";
   font-size: 16px;
+  line-height: 25px;
   color: #8b8b8b;
-  margin-top: 50px;
-  margin-bottom: 28px;
+  margin-bottom: 70px;
 }
+
 
 .file_list {
   display: flex;
@@ -33,5 +36,19 @@
 }
 
 .headline_list {
-  margin-bottom: 54px;
+  margin-bottom: 80px;
+}
+
+
+.container-lg {
+width: 1208px;
+}
+
+.solutions-svg {
+  margin-right: 18px;
+}
+
+.send-message {
+  width: 181px;
+  height: 51px;
 }

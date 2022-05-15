@@ -201,3 +201,11 @@ main {
   width: 1174px;
   margin: 0 auto;
 }
+
+
+
+.flex-start {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
