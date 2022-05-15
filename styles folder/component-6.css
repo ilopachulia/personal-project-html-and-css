@@ -4,10 +4,10 @@
 }
 
 .youtube-container-headline {
-  font-family: "muli-regular";
+  font-family: "cambay-regular";
   font-size: 16px;
   text-align: center;
-  line-height: 23px;
+  line-height: 20px;
   color: white;
 }
 .youtube-container-header {
@@ -16,4 +16,6 @@
   text-align: center;
   color: white;
   line-height: 47px;
+  margin-bottom: 187px;
+  margin-top: 10px;
 }
