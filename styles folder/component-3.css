@@ -3,10 +3,13 @@
 }
 
 .main-text {
-  font-family: "glacial-bold";
+  font-family: "muli";
   font-size: 80px;
   color: white;
-  margin-bottom: 20px;
+  margin-bottom: 30px;
+  margin-top: 20px;
+  line-height: 87px;
+  width: 670px;
 }
 
 .services_container {
@@ -16,6 +19,7 @@
 .minor-text {
   font-family: "muli";
   font-size: 20px;
+  line-height: 28px;
   margin-bottom: 50px;
   color: white;
 }
