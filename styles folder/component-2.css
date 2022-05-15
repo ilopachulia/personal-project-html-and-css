@@ -10,14 +10,14 @@
 }
 
 .navigation_list {
-  margin-left: 280px;
+  margin-left: 270px;
   display: flex;
   list-style-type: none;
   align-items: center;
 }
 
 .navigation li {
-  margin-right: 45px;
+  margin-right: 41px;
 }
 
 .navigation_link {
