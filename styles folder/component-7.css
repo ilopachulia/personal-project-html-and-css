@@ -9,15 +9,17 @@
 }
 
 .quantity {
-  font-family: "glacial-bold";
+  font-family: "glacial-regular";
   font-size: 57px;
   color: #ffffff;
+  margin-right: 170px;
 }
 
 .task-completed {
   font-family: "glacial-regular";
   font-size: 24px;
   color: #cfcfcf;
+  margin-bottom: 22px;
 }
 
 .svg-container {
@@ -29,4 +31,18 @@
   align-items: center;
   justify-content: space-between;
   height: 100%;
+}
+
+.youtube-container-circle {
+  width: 113px;
+  height: 113px;
+  background-color: #2d2c2c;
+  border-radius: 50%;
+  position: relative;
+}
+
+.footer-icon {
+  position: relative;
+  top: 20%;
+  left: 35%;
 }
