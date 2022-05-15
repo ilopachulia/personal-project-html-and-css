@@ -52,6 +52,7 @@
   border-radius: 50%;
   background-color: #ffffff;
   margin-bottom: 11px;
+  position: relative;
 }
 
 .box:hover > .circle {
@@ -66,4 +67,11 @@
 #button-services {
   width: 205px;
   height: 67px;
+}
+
+.icon {
+  position: relative;
+  top: 28%;
+  left: 25%;
+  filter: brightness(0%);
 }
