@@ -1,26 +1,27 @@
 .box {
   width: 362px;
   height: 292px;
-  padding: 25px;
+  padding-top: 45px;
+  padding-left: 40px;
   background-color: #edf7ff;
 }
 
 .boxes_container {
-  margin-top: 60px;
+  margin-top: 45px;
   margin-bottom: 90px;
 }
 
-
 .text {
   color: black;
-  font-size: 40px;
+  font-size: 39px;
   text-align: center;
   font-family: "glacial-regular";
+  line-height: 50px;
 }
 
 .box-text {
   color: #2e2e2e;
-  margin-bottom: 15px;
+  margin-bottom: 23px;
   font-family: "glacial-regular";
   font-size: 25px;
   line-height: 30px;
@@ -41,7 +42,7 @@
 }
 
 .services-section {
-  margin-top: 140px;
+  margin-top: 130px;
   margin-bottom: 140px;
 }
 
@@ -50,13 +51,19 @@
   height: 84px;
   border-radius: 50%;
   background-color: #ffffff;
+  margin-bottom: 11px;
 }
 
 .box:hover > .circle {
   background-color: #ee3364;
 }
 
-
 .box:hover {
   border: 2px solid #ee3364;
+}
+
+
+#button-services {
+  width: 205px;
+  height: 67px;
 }
