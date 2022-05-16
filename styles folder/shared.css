@@ -192,11 +192,6 @@ main {
   width: 100%;
 }
 
-/* .container {
-  width: 1155px;
-  margin: 0 auto;
-} */
-
 .container {
   width: 1170px;
   margin: 0 auto;
@@ -221,4 +216,36 @@ main {
   justify-content: center;
   align-items: center;
   flex-direction: column;
+}
+
+
+
+.flex {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+
+.glacial-bold {
+  font-family: 'glacial-bold';
+}
+.glacial-regular {
+  font-family: 'glacial-regular';
+}
+
+.muli-bold {
+  font-family: 'muli-bodl';
+}
+
+.muli-regular {
+  font-family: 'muli';
+}
+
+.pink {
+  background-color: #ee3364;
+}
+
+.uppercase {
+  text-transform: uppercase;
 }

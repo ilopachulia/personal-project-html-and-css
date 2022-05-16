@@ -74,3 +74,25 @@ input[type="range"]:focus {
 #backend_developer {
   margin-bottom: 23px;
 }
+
+
+.range {
+  width: 547px;
+  height: 10px;
+  margin-bottom: 20px;
+  background-color: white;
+}
+
+.pink-part {
+  height: 100%;
+  width: 76%;
+  background-color: #ee3364;
+}
+.backend-development {
+  margin-bottom: 18px;
+  font-size: 16px;
+}
+
+.percentage {
+  font-size: 18px;
+}

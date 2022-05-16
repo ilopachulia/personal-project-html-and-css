@@ -10,26 +10,25 @@
 .main-text {
   font-family: "muli-bold";
   font-size: 80px;
-  color: white;
   margin-bottom: 30px;
   line-height: 87px;
   width: 680px;
 }
 
+.main-text, .minor-text {
+  color: #fff;
+}
 .minor-text {
   font-family: "muli";
   font-size: 20px;
   line-height: 28px;
   margin-bottom: 40px;
-  color: white;
 }
 
 .send-message-comp3 {
   width: 180px;
   height: 58px;
   padding: 20px 30px;
-  background-color: #ee3364;
-  text-transform: uppercase;
   color: white;
   border: none;
   font-family: "muli";
