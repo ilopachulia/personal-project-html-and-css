@@ -1,47 +1,40 @@
 .logo-container {
-    height: 793px;
+  height: 794px;
 }
 
 .logo-circle {
-    width: 106px;
-    height: 106px;
-    border-radius: 50%;
-    background-color: black;
-    padding-top: 114px;
+  width: 106px;
+  height: 106px;
+  border-radius: 50%;
+  background-color: black;
 }
 
-.logo-container {
-    display: flex;
-    height: 200px;
-    align-items: center;    
-    margin-top: 114px;
-    margin-bottom: 30px;
+.author-logo-container {
+  display: flex;
+  align-items: center;
+  margin-top: 127px;
+  margin-bottom: 15px;
 }
-
 
 .logo-author {
-    font-family: 'glacial-regular';
-    font-size: 26px;
-    line-height: 27px;
-    color: #303030;
-    margin-bottom: 20px;
+  font-family: "glacial-regular";
+  font-size: 26px;
+  line-height: 27px;
+  color: #303030;
+  margin-bottom: 10px;
 }
 
 .company-name {
-    font-family: 'muli';
-    font-size: 14px;
-    line-height: 27px;
-    color: #C4C4C4;
+  font-family: "muli";
+  font-size: 14px;
+  line-height: 27px;
+  color: #c4c4c4;
 }
 
 .logo-paragraph {
-    font-family: 'muli-bold-italic';
-    font-size: 17px;
-    line-height: 27px;
-    color: #8D8D8D;
-    margin-bottom: 170px;
-}
-
-
-.logos {
+  font-family: "muli-bold-italic";
+  font-size: 17px;
+  line-height: 27px;
+  color: #8d8d8d;
+  margin-bottom: 130px;
 }
