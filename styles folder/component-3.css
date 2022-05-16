@@ -1,6 +1,11 @@
 .background {
   height: 884px;
+  background-image: url(../images\ folder/Clip.png) ;
 }
+.services {
+  height: 884px;
+}
+
 
 .main-text {
   font-family: "muli";
@@ -12,9 +17,7 @@
   width: 670px;
 }
 
-.services_container {
-  background-color: blueviolet;
-}
+
 
 .minor-text {
   font-family: "muli";
@@ -23,6 +26,7 @@
   margin-bottom: 60px;
   color: white;
 }
+
 
 button {
   width: 180px;
