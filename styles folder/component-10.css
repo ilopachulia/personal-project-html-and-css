@@ -1,11 +1,32 @@
 .service_package {
   background-color: white;
-  padding-top: 134px;
+  padding-top: 137px;
 }
 
 .plans_container {
   display: flex;
   justify-content: space-between;
+}
+
+.service-container-headline {
+  margin-bottom: 15px;
+  font-family: "glacial-regular";
+  font-size: 15px;
+  color: #ee3364;
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom: 30px;
+}
+
+.service-container-header {
+  font-family: "cambay-bold";
+
+  font-size: 65px;
+  line-height: 36px;
+  text-align: center;
+  color: #222222;
+  font-weight: 200;
+  margin-bottom: 55px;
 }
 
 .plan_box {
@@ -15,6 +36,7 @@
   border: 1px solid #eeeeee;
   padding-top: 75px;
   padding-bottom: 75px;
+  margin-right: 20px;
 }
 
 .plan_typo {

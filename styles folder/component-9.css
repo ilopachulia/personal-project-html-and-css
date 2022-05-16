@@ -24,7 +24,7 @@
 .showcase-wrap {
   display: flex;
   flex-wrap: wrap;
-  margin-bottom: 136px;
+  margin-bottom: 142px;
 }
 
 .show-cell {
@@ -57,7 +57,7 @@
 }
 
 .view-all {
-  margin-bottom: 142px;
+  margin-bottom: 135px;
 }
 
 
