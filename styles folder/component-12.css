@@ -4,6 +4,7 @@
   background-color: #F2F2F2;
 }
 
+
 .mini-container {
   width: 810px;
 }
@@ -52,4 +53,5 @@ button {
 
 
 .space-man-img {
+  padding-top: 50px
 }
