@@ -6,6 +6,7 @@
 .plans_container {
   display: flex;
   justify-content: space-between;
+  margin-bottom: 142px;
 }
 
 .service-container-headline {

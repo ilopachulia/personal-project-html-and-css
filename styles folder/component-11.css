@@ -1,0 +1,18 @@
+.salima-container {
+  background-color: #bbbbbb;
+  height: 574px;
+}
+
+.rectangle {
+  width: 394px;
+  height: 574px;
+  background-color: #d0d0d0;
+}
+
+.rectangle-different {
+  width: 380px;
+  height: 569px;
+  border: 15px solid black;
+  background-color: #ee3364;
+  font-size: 34px;
+}
