@@ -1,6 +1,7 @@
 .full-container {
   width: 1920px;
-  margin-left: 35px;
+  padding-left: 35px;
+  background-color: #F2F2F2;
 }
 
 .mini-container {
@@ -24,11 +25,31 @@
   color: #2e2e2e;
 }
 
-#consultings,  {
+
+#consultings, #name, #phone-number, button  {
   height: 54px;
   width: 350px;
   background-color: #cacaca;
   font-family: "muli";
   font-size: 13px;
   padding-left: 30px;
+}
+
+#name {
+  background-color: #fff;
+}
+
+#consultings {
+margin-right: 10px;
+margin-bottom: 10px;
+}
+
+button {
+  background-color: #ee3364;
+  margin-left: 10px;
+  margin-top: 10px
+}
+
+
+.space-man-img {
 }
