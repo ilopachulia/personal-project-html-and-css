@@ -58,6 +58,16 @@
 
 .view-all {
   margin-bottom: 135px;
+   width: 180px;
+  height: 58px;
+  padding: 20px 30px;
+  background-color: #ee3364;
+  text-transform: uppercase;
+  color: white;
+  border: none;
+  font-family: "muli";
+  font-size: 12px;
+  cursor: pointer;
 }
 
 

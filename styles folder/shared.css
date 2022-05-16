@@ -192,10 +192,16 @@ main {
   width: 100%;
 }
 
-.container {
+/* .container {
   width: 1155px;
   margin: 0 auto;
+} */
+
+.container {
+  width: 1170px;
+  margin: 0 auto;
 }
+
 
 .container-lg {
   width: 1174px;

@@ -8,24 +8,23 @@
   background-image: url("../images folder/bg\ shape.svg");
 }
 .main-text {
-  font-family: "muli";
+  font-family: "muli-bold";
   font-size: 80px;
   color: white;
   margin-bottom: 30px;
-  margin-top: 20px;
   line-height: 87px;
-  width: 670px;
+  width: 680px;
 }
 
 .minor-text {
   font-family: "muli";
   font-size: 20px;
   line-height: 28px;
-  margin-bottom: 60px;
+  margin-bottom: 40px;
   color: white;
 }
 
-button {
+.send-message-comp3 {
   width: 180px;
   height: 58px;
   padding: 20px 30px;
@@ -35,6 +34,5 @@ button {
   border: none;
   font-family: "muli";
   font-size: 12px;
-  font-weight: bold;
   cursor: pointer;
 }
