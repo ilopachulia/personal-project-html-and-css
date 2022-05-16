@@ -51,4 +51,7 @@ width: 1208px;
 .send-message {
   width: 181px;
   height: 51px;
+  text-align: center;
+  color: #fff;
+  text-transform: uppercase;
 }
